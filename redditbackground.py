@@ -54,7 +54,7 @@ def setBackground():
 	firstChild = getDataOfChild(children, 0)
 	imageName = getImageNameFromURL(firstChild["url"])
 
-	fullImageName = "C:\\pybg\\" + imageName
+	fullImageName = "C:\\redditbackground\\" + imageName
 	storeImage(firstChild["url"], fullImageName)
 	setImageAsBackground(fullImageName)
 
