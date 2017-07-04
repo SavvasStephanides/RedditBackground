@@ -1,4 +1,4 @@
-<h1>How to run Reddit Background on your computer:</h1>
+<h1>How to run Reddit Background on your Windows computer:</h1>
 
 <h2>1. Download Python</h2>
 
