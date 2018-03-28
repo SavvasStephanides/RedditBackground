@@ -1,19 +1,27 @@
-<h1>How to run Reddit Background on your Windows computer:</h1>
+# How to run Reddit Background on your Windows computer:
 
-<h2>1. Download Python</h2>
+You will need:
 
-Download the latest version of Python from <a href="https://www.python.org/">python.org</a>
+* Python 3
+* Git
 
-<h2>2. Add the script file on your computer</h2>
+## 1. Clone RedditBackground
 
-Create a folder on your C: drive and call it <b>RedditBackground</b>. Add the file RedditBackground.py in that folder.
+    git clone https://github.com/SavvStudio/RedditBackground.git
 
-<h2>Run the script</h2>
 
-To run the RedditBackground script, open the command line and point to C:\RedditBackground. Now run this command:
+## 2. Run RedditBackground
 
-<code>python RedditBackground.py subredditName</code>
+    cd RedditBackground
+    python run.py subreddit_name
 
-For example, to get the top rated image of /r/spaceporn, type:
+Example:
 
-<code>python RedditBackground.py spaceporn</code>
+    python run.py earthporn
+    
+The top image of your selected subreddit with a note on image details
+
+    Setting your background as the top image of /r/earthporn...
+    Done!
+    ===== Image Details =====
+    Title: Rainbow in the dark. Or northern lights during long exposure - in Lofoten, Norway [OC] [828x1200]
