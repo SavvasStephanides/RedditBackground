@@ -17,11 +17,11 @@ You will need:
 
 Example:
 
-    python run.py earthporn
+    python run.py wallpapers
     
 The top image of your selected subreddit with a note on image details
 
-    Setting your background as the top image of /r/earthporn...
+    Setting your background as the top image of /r/wallpapers...
     Done!
     ===== Image Details =====
     Title: Rainbow in the dark. Or northern lights during long exposure - in Lofoten, Norway [OC] [828x1200]
