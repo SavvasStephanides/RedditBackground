@@ -19,9 +19,9 @@ Example:
 
     python run.py wallpapers
     
-The top image of your selected subreddit with a note on image details
+The top image of your selected subreddit with a note on image details:
 
     Setting your background as the top image of /r/wallpapers...
     Done!
     ===== Image Details =====
-    Title: Rainbow in the dark. Or northern lights during long exposure - in Lofoten, Norway [OC] [828x1200]
+    Title: Ponyo and Sosuke
